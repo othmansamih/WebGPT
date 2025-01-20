@@ -50,7 +50,7 @@ WEB-GPT-Project/
 1. Clone this repository:
     
     ```bash
-    git clone https://github.com/othmansamih/WEBGPT.git
+    git clone https://github.com/othmansamih/WebGPT.git
     cd webgpt-app
     ```
     
